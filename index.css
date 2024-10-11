@@ -6,10 +6,12 @@ body{
     justify-content: center;
     align-items: center;
     min-width: 300px;
+    min-height: 100dvh;
+    margin: 0;
 }
 .container{
     border: 3px solid black;
-    margin: 1em auto;
+    
     padding: 0 3em 1em;
     font-family: "Roboto", sans-serif;
     height: 100%;
